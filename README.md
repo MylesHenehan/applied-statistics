@@ -54,6 +54,8 @@ This will install all necessary packages listed in requirements.txt.
 - Analytics Toolkit. (2018). Confidence intervals, p-values, percent change and relative difference. Available at: https://blog.analytics-toolkit.com/2018/confidence-intervals-p-values-percent-change-relative-difference/
  (Accessed: 10 November 2025).
 
+- Fisher, R.A., 1935. The Design of Experiments. Edinburgh and London: Oliver & Boyd.
+
 - Matplotlib. (no date). Matplotlib documentation. Available at: https://matplotlib.org/stable/contents.html
  (Accessed: 6 October 2025).
 

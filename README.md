@@ -53,11 +53,15 @@ This will install all necessary packages listed in requirements.txt.
 ## Full Reference List
 - Analytics Toolkit. (2018). Confidence intervals, p-values, percent change and relative difference. Available at: https://blog.analytics-toolkit.com/2018/confidence-intervals-p-values-percent-change-relative-difference/ (Accessed: 10 November 2025).
 
+- DataCamp (2024) Sample Standard Deviation: The Key Ideas. Available at: https://www.datacamp.com/tutorial/sample-standard-deviation (Accessed: 21 November 2025).
+
 - Fisher, R.A., (1935). The Design of Experiments. Edinburgh and London: Oliver & Boyd.
 
-- Jaisingh, L.R. (2006) Statistics for the Utterly Confused, 2nd edn. McGraw-Hill, p. 5.
+- Jaisingh, L.R. (2006) Statistics for the Utterly Confused, 2nd edn. McGraw-Hill.
 
 - GeeksforGeeks (2025) Overlapping Histograms in Python | Matplotlib. Available at: https://www.geeksforgeeks.org/python/overlapping-histograms-with-matplotlib-in-python/ (Accessed: 19 November 2025).
+
+- Maini, N. (2023). Standard Deviation and Bessel’s Correction. Available at: https://nickmaini.substack.com/p/standard-deviation-and-bessels-correction (Accessed: 21 November 2025).
 
 - Matplotlib. (no date). Matplotlib documentation. Available at: https://matplotlib.org/stable/contents.html (Accessed: 6 October 2025).
 
@@ -82,3 +86,5 @@ This will install all necessary packages listed in requirements.txt.
 - Statsig. (no date c). What is statistical significance? Available at: https://www.statsig.com/perspectives/what-is-statistical-significance (Accessed: 10 November 2025).
 
 - YouTube. (2023). Understanding the p-value (video). Available at: https://www.youtube.com/watch?v=KS6KEWaoOOE (Accessed: 2 November 2025).
+
+- YouTube. (2020). What Is The Difference: Population Vs Sample Standard Deviation (video). Available at: https://www.youtube.com/watch?v=DA2MpLLs8Pg (Accessed: 21 November 2025).

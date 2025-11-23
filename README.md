@@ -57,6 +57,8 @@ This will install all necessary packages listed in requirements.txt.
 
 - Fisher, R.A., (1935). The Design of Experiments. Edinburgh and London: Oliver & Boyd.
 
+- Frost, J., n.d. Sample Size Essentials: The Foundation of Reliable Statistics. Statistics By Jim. Available at: https://statisticsbyjim.com/basics/sample-size/ (Accessed: 23 November 2025).
+
 - Jaisingh, L.R. (2006) Statistics for the Utterly Confused, 2nd edn. McGraw-Hill.
 
 - GeeksforGeeks (2025) Overlapping Histograms in Python | Matplotlib. Available at: https://www.geeksforgeeks.org/python/overlapping-histograms-with-matplotlib-in-python/ (Accessed: 19 November 2025).

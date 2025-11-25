@@ -59,6 +59,8 @@ This will install all necessary packages listed in requirements.txt.
 
 - Frost, J., n.d. Sample Size Essentials: The Foundation of Reliable Statistics. Statistics By Jim. Available at: https://statisticsbyjim.com/basics/sample-size/ (Accessed: 23 November 2025).
 
+- GeeksforGeeks. (2025) T-test. Available at: https://www.geeksforgeeks.org/data-science/t-test/ (Accessed: 25 November 2025).
+
 - Jaisingh, L.R. (2006) Statistics for the Utterly Confused, 2nd edn. McGraw-Hill.
 
 - GeeksforGeeks (2025) Overlapping Histograms in Python | Matplotlib. Available at: https://www.geeksforgeeks.org/python/overlapping-histograms-with-matplotlib-in-python/ (Accessed: 19 November 2025).
@@ -77,11 +79,17 @@ This will install all necessary packages listed in requirements.txt.
 
 - Python Software Foundation. (no date c). random — Generate pseudo-random numbers. Available at: https://docs.python.org/3/library/random.html (Accessed: 6 October 2025).
 
+- Qualtrics. (n.d.) T-Test. Available at: https://www.qualtrics.com/en-gb/experience-management/research/t-test/ (Accessed: 25 November 2025).
+
 - Sagan, C. (1995). The Demon-Haunted World: Science as a Candle in the Dark. New York: Random House.
+
+- Statistics by Jim. (n.d.) Independent Samples T-Test. Available at: https://statisticsbyjim.com/hypothesis-testing/independent-samples-t-test/#google_vignette (Accessed: 25 November 2025).
 
 - Statisticshowto (no date) Bessel’s correction: Definition, examples. Available at: https://www.statisticshowto.com/bessels-correction/ (Accessed: 18 November 2025).
 
 - Statsig. (no date a). Alpha and significance level in statistics. Available at: https://www.statsig.com/perspectives/alpha-significance-level-statistics (Accessed: 10 November 2025).
+
+- Statsig. (n.d.) How to interpret t-statistic & hypothesis testing. Available at: https://www.statsig.com/perspectives/interpret-t-statistic-hypothesis-testing (Accessed: 25 November 2025).
 
 - Statsig. (no date b). Significance and stricter thresholds. Available at: https://www.statsig.com/perspectives/significance-stricter-threshold (Accessed: 10 November 2025).
 

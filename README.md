@@ -65,6 +65,8 @@ This will install all necessary packages listed in requirements.txt.
 
 - JMP. (no date). T-Test (One-Sample T-Test) — JMP stats knowledge portal. Available at: https://www.jmp.com/en/statistics-knowledge-portal/t-test/one-sample-t-test (Accessed: 30 November 2025).
 
+- GeeksforGeeks. (2025). Create a Pandas DataFrame from Lists. [online] Available at: https://www.geeksforgeeks.org/python/create-a-pandas-dataframe-from-lists/ (Accessed 1 December 2025).
+
 - GeeksforGeeks. (2025). Overlapping Histograms in Python | Matplotlib. Available at: https://www.geeksforgeeks.org/python/overlapping-histograms-with-matplotlib-in-python/ (Accessed: 19 November 2025).
 
 - Maini, N. (2023). Standard Deviation and Bessel’s Correction. Available at: https://nickmaini.substack.com/p/standard-deviation-and-bessels-correction (Accessed: 21 November 2025).

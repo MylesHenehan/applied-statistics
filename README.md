@@ -61,6 +61,8 @@ This will install all necessary packages listed in requirements.txt.
 
 - GeeksforGeeks. (2025). T-test. Available at: https://www.geeksforgeeks.org/data-science/t-test/ (Accessed: 25 November 2025).
 
+- Hayes, A. (2025). Sampling Errors in Statistics: Definition, Types, and Calculation. Investopedia. Available at: https://www.investopedia.com/terms/s/samplingerror.asp(Accessed: 4 December 2025).
+
 - Jaisingh, L.R. (2006). Statistics for the Utterly Confused, 2nd edn. McGraw-Hill.
 
 - JMP. (no date). T-Test (One-Sample T-Test) — JMP stats knowledge portal. Available at: https://www.jmp.com/en/statistics-knowledge-portal/t-test/one-sample-t-test (Accessed: 30 November 2025).
@@ -73,9 +75,11 @@ This will install all necessary packages listed in requirements.txt.
 
 - Matplotlib. (no date). Matplotlib documentation. Available at: https://matplotlib.org/stable/contents.html (Accessed: 6 October 2025).
 
+- Numiqo. (no date). Effect size for Independent-Samples t-Test – Tutorial. Numiqo. Available at: https://numiqo.com/tutorial/effect-size-independent-t-test (Accessed: 4 December 2025).
+
 - NumPy. (no date). numpy.arange — NumPy v… documentation. Available at: https://numpy.org/devdocs/reference/generated/numpy.arange.html (Accessed: 29 November 2025).
 
- - NumPy (no date) numpy.std — Standard deviation. Available at: https://numpy.org/devdocs/reference/generated/numpy.std.html (Accessed: 19 November 2025).
+ - NumPy. (no date) numpy.std — Standard deviation. Available at: https://numpy.org/devdocs/reference/generated/numpy.std.html (Accessed: 19 November 2025).
 
 - NumPy. (no date). NumPy reference documentation. Available at: https://numpy.org/doc/stable/reference/index.html#reference (Accessed: 6 October 2025).
 
@@ -91,11 +95,15 @@ This will install all necessary packages listed in requirements.txt.
 
 - SciPy. (no date). scipy.stats.ttest_ind — SciPy v… documentation. Available at: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html (Accessed: 30 November 2025).
 
+- Scribbr. (2021). Statistical Power and Why It Matters. Scribbr. Available at: https://www.scribbr.com/statistics/statistical-power/ (Accessed: 4 December 2025).
+
 - Statistics by Jim. (no date). Independent Samples T-Test. Available at: https://statisticsbyjim.com/hypothesis-testing/independent-samples-t-test/#google_vignette (Accessed: 25 November 2025).
 
 - Statisticshowto. (no date). Bessel’s correction: Definition, examples. Available at: https://www.statisticshowto.com/bessels-correction/ (Accessed: 18 November 2025).
 
 - Statsig. (2025). Alpha and significance level in statistics. Available at: https://www.statsig.com/perspectives/alpha-significance-level-statistics (Accessed: 10 November 2025).
+
+- Statsig. (2024). How to interpret a p-value in a T-test: A step-by-step guide. Statsig. Available at: https://www.statsig.com/perspectives/interpret-pvalue-ttest-guide(Accessed: 4 December 2025).
 
 - Statsig. (2025). How to interpret t-statistic & hypothesis testing. Available at: https://www.statsig.com/perspectives/interpret-t-statistic-hypothesis-testing (Accessed: 25 November 2025).
 

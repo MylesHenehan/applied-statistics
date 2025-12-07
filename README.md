@@ -9,7 +9,6 @@ This repository contains **`problem.ipynb`**, a jupyter notebook in which I comp
 ## Problems
 
 ### **Problem 1 --- Extending the Lady Tasting Tea**
-
 In this problem, I extend Fisher's original Lady Tasting Tea experiment.
 
 -   Original setup: 8 cups (4 tea-first, 4 milk-first)
@@ -23,7 +22,6 @@ change in probability suggests adjusting (extending or relaxing) the
 p-value threshold of the test.
 
 ------------------------------------------------------------------------
-
 ### **Problem 2 --- Normal Distribution**
 
 I explore the sampling distribution of standard deviations from the
@@ -35,6 +33,18 @@ standard deviation (ddof=0) 3. Plot both distributions on the same
 histogram with transparency 4. Describe differences between the two
 distributions 5. Discuss how these differences change as sample size
 increases
+
+------------------------------------------------------------------------
+### **Problem 3 --- t-Tests**
+
+In this problem, I simulate how often an independent t-test fails to detect a real difference between two groups (a Type II error).
+
+By generating samples with varying effect sizes and repeatedly running the test, I estimate the probability of failing to reject the null hypothesis across different mean differences. I then visualise how the Type II error rate decreases as the difference between group means increases.
+
+------------------------------------------------------------------------
+### **Problem 4 --- ANOVA**
+
+Here, I generate three independent samples with different true means and apply a one-way ANOVA to determine whether the groups differ statistically. The analysis demonstrates how ANOVA evaluates multiple groups simultaneously and highlights why it is preferred over running several separate t-tests, which would inflate the risk of false positives.
 
 ------------------------------------------------------------------------
 ## Requirements

@@ -73,6 +73,8 @@ This will install all necessary packages listed in requirements.txt.
 
 - Hayes, A. (2025). Sampling Errors in Statistics: Definition, Types, and Calculation. Investopedia. Available at: https://www.investopedia.com/terms/s/samplingerror.asp(Accessed: 4 December 2025).
 
+- Investopedia. (2023). ANOVA (Analysis of Variance). Available at: https://www.investopedia.com/terms/a/anova.asp (Accessed: 13 December 2025).
+
 - Jaisingh, L.R. (2006). Statistics for the Utterly Confused, 2nd edn. McGraw-Hill.
 
 - JMP. (no date). T-Test (One-Sample T-Test) — JMP stats knowledge portal. Available at: https://www.jmp.com/en/statistics-knowledge-portal/t-test/one-sample-t-test (Accessed: 30 November 2025).
@@ -80,6 +82,8 @@ This will install all necessary packages listed in requirements.txt.
 - GeeksforGeeks. (2025). Create a Pandas DataFrame from Lists. [online] Available at: https://www.geeksforgeeks.org/python/create-a-pandas-dataframe-from-lists/ (Accessed 1 December 2025).
 
 - GeeksforGeeks. (2025). Overlapping Histograms in Python | Matplotlib. Available at: https://www.geeksforgeeks.org/python/overlapping-histograms-with-matplotlib-in-python/ (Accessed: 19 November 2025).
+
+- Laerd Statistics. (n.d.) One-way ANOVA statistical guide. Available at: https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php (Accessed: 13 December 2025).
 
 - Maini, N. (2023). Standard Deviation and Bessel’s Correction. Available at: https://nickmaini.substack.com/p/standard-deviation-and-bessels-correction (Accessed: 21 November 2025).
 
@@ -111,6 +115,8 @@ This will install all necessary packages listed in requirements.txt.
 
 - Statisticshowto. (no date). Bessel’s correction: Definition, examples. Available at: https://www.statisticshowto.com/bessels-correction/ (Accessed: 18 November 2025).
 
+- Statology. (2023). Family-wise error rate (FWER) explained with examples. Available at: https://www.statology.org/family-wise-error-rate/ (Accessed: 13 December 2025).
+
 - Statsig. (2025). Alpha and significance level in statistics. Available at: https://www.statsig.com/perspectives/alpha-significance-level-statistics (Accessed: 10 November 2025).
 
 - Statsig. (2024). How to interpret a p-value in a T-test: A step-by-step guide. Statsig. Available at: https://www.statsig.com/perspectives/interpret-pvalue-ttest-guide(Accessed: 4 December 2025).
@@ -120,6 +126,8 @@ This will install all necessary packages listed in requirements.txt.
 - Statsig. (2024). Significance and stricter thresholds. Available at: https://www.statsig.com/perspectives/significance-stricter-threshold (Accessed: 10 November 2025).
 
 - Statsig. (2024). What is statistical significance? Available at: https://www.statsig.com/perspectives/what-is-statistical-significance (Accessed: 10 November 2025).
+
+- YouTube. (2013). StatQuest: ANOVA, clearly explained!!!. Available at: https://www.youtube.com/watch?v=rK3mXS3gHyI (Accessed: 9 December 2025).
 
 - YouTube. (2023). Understanding the p-value (video). Available at: https://www.youtube.com/watch?v=KS6KEWaoOOE (Accessed: 2 November 2025).
 

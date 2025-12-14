@@ -85,6 +85,8 @@ This will install all necessary packages listed in requirements.txt.
 
 - Laerd Statistics. (n.d.) One-way ANOVA statistical guide. Available at: https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php (Accessed: 13 December 2025).
 
+- LibMontana (n.d.) Multiple pairwise comparisons using Tukey’s HSD. Available at: https://arc.lib.montana.edu/book/statistics-with-r-textbook/item/59 (Accessed: 14 December 2025).
+
 - Maini, N. (2023). Standard Deviation and Bessel’s Correction. Available at: https://nickmaini.substack.com/p/standard-deviation-and-bessels-correction (Accessed: 21 November 2025).
 
 - Matplotlib. (no date). Matplotlib documentation. Available at: https://matplotlib.org/stable/contents.html (Accessed: 6 October 2025).
@@ -113,9 +115,13 @@ This will install all necessary packages listed in requirements.txt.
 
 - Statistics by Jim. (no date). Independent Samples T-Test. Available at: https://statisticsbyjim.com/hypothesis-testing/independent-samples-t-test/#google_vignette (Accessed: 25 November 2025).
 
+- Statistics By Jim. (n.d.). Using confidence intervals to compare means. Available at: https://statisticsbyjim.com/hypothesis-testing/confidence-intervals-compare-means/ (Accessed: 14 December 2025).
+
 - Statisticshowto. (no date). Bessel’s correction: Definition, examples. Available at: https://www.statisticshowto.com/bessels-correction/ (Accessed: 18 November 2025).
 
 - Statology. (2023). Family-wise error rate (FWER) explained with examples. Available at: https://www.statology.org/family-wise-error-rate/ (Accessed: 13 December 2025).
+
+- Statology. (2020). How to perform Tukey’s HSD test in Python. Available at: https://www.statology.org/tukey-test-python/ (Accessed: 14 December 2025).
 
 - Statsig. (2025). Alpha and significance level in statistics. Available at: https://www.statsig.com/perspectives/alpha-significance-level-statistics (Accessed: 10 November 2025).
 

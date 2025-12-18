@@ -63,6 +63,8 @@ This will install all necessary packages listed in requirements.txt.
 ## Full Reference List
 - Analytics Toolkit. (2018). Confidence intervals, p-values, percent change and relative difference. Available at: https://blog.analytics-toolkit.com/2018/confidence-intervals-p-values-percent-change-relative-difference/ (Accessed: 10 November 2025).
 
+- Brownlee, J. (2022). Random seeds and reproducibility. Available at: https://medium.com/data-science/random-seeds-and-reproducibility-933da79446e3 (Accessed: 18 December 2025).
+
 - DataCamp. (2024). Sample Standard Deviation: The Key Ideas. Available at: https://www.datacamp.com/tutorial/sample-standard-deviation (Accessed: 21 November 2025).
 
 - Fisher, R.A.. (1935). The Design of Experiments. Edinburgh and London: Oliver & Boyd.

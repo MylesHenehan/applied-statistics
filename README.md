@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains **`problem.ipynb`**, a jupyter notebook in which I complete four statistical simulation exercises. These tasks involve randomization, sampling, and hypothesis testing, covering concepts such as permutation testing, sampling distributions, Type II error, and ANOVA.
+This repository contains **`problems.ipynb`**, a jupyter notebook in which I complete four statistical simulation exercises. These tasks involve randomization, sampling, and hypothesis testing, covering concepts such as permutation testing, sampling distributions, Type II error, and ANOVA.
+
+The aim of this repository is to demonstrate an understanding of probability, simulation, and statistical inference through a series of progressively structured exercises.
 
 ------------------------------------------------------------------------
 
@@ -24,15 +26,10 @@ p-value threshold of the test.
 ------------------------------------------------------------------------
 ### **Problem 2 --- Normal Distribution**
 
-I explore the sampling distribution of standard deviations from the
+Here, I explore the sampling distribution of standard deviations from the
 standard normal distribution.
 
-Steps: 1. Generate 100,000 samples of size 10 from N(0,1) 2. For each
-sample, compute: - Sample standard deviation (ddof=1) - Population
-standard deviation (ddof=0) 3. Plot both distributions on the same
-histogram with transparency 4. Describe differences between the two
-distributions 5. Discuss how these differences change as sample size
-increases
+This problem involves generating 100,000 samples of size 10 from a standard normal distribution and computing both sample and population standard deviations for each sample. The two distributions are visualised using overlapping histograms, and differences between them are analysed, including how these differences change as sample size increases.
 
 ------------------------------------------------------------------------
 ### **Problem 3 --- t-Tests**
@@ -55,8 +52,7 @@ Before running the notebook, install all required Python packages:
 Install dependencies using:
 pip install -r requirements.txt
 
-
-This will install all necessary packages listed in requirements.txt.
+This will install all necessary packages listed in requirements.txt. All libraries used are from the approved list provided for the assignment.
 
 ------------------------------------------------------------------------
 

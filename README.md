@@ -79,6 +79,8 @@ This will install all necessary packages listed in requirements.txt. All librari
 
 - GeeksforGeeks. (2025). Create a Pandas DataFrame from Lists. [online] Available at: https://www.geeksforgeeks.org/python/create-a-pandas-dataframe-from-lists/ (Accessed 1 December 2025).
 
+- GeeksforGeeks (2025) Null Hypothesis. Available at: https://www.geeksforgeeks.org/maths/null-hypothesis/ (Accessed: 20 December 2025).
+
 - GeeksforGeeks. (2025). Overlapping Histograms in Python | Matplotlib. Available at: https://www.geeksforgeeks.org/python/overlapping-histograms-with-matplotlib-in-python/ (Accessed: 19 November 2025).
 
 - Laerd Statistics. (n.d.) One-way ANOVA statistical guide. Available at: https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php (Accessed: 13 December 2025).

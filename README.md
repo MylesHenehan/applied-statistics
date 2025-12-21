@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains **`problems.ipynb`**, a jupyter notebook in which I complete four statistical simulation exercises. These tasks involve randomization, sampling, and hypothesis testing, covering concepts such as permutation testing, sampling distributions, Type II error, and ANOVA.
+This repository contains **`problems.ipynb`**, a Jupyter notebook in which I complete four statistical simulation exercises. These tasks involve randomization, sampling, and hypothesis testing, covering concepts such as permutation testing, sampling distributions, Type II error, and ANOVA.
 
 The aim of this repository is to demonstrate an understanding of probability, simulation, and statistical inference through a series of progressively structured exercises.
 
@@ -54,7 +54,11 @@ pip install -r requirements.txt
 
 This will install all necessary packages listed in requirements.txt. All libraries used are from the approved list provided for the assignment.
 
-Note: A fixed random seed is set at the start of this notebook to ensure reproducible results. To reproduce the results exactly, the notebook should be run from start to finish in order.
+Important note: A fixed random seed is set at the start of this notebook to ensure reproducible results. To reproduce the results exactly, the notebook should be run from start to finish in order.
+
+------------------------------------------------------------------------
+## Use of Generative AI
+OpenAI’s ChatGPT was used to assist with practical aspects of this project, including formatting references in Harvard style, structuring the README, and improving the clarity and academic phrasing of some written explanations. All code, statistical analysis, and interpretation of results were produced, verified, and finalised by the author. Any AI-generated suggestions were reviewed critically and adapted as necessary.
 
 ------------------------------------------------------------------------
 
@@ -79,7 +83,7 @@ Note: A fixed random seed is set at the start of this notebook to ensure reprodu
 
 - JMP. (no date). T-Test (One-Sample T-Test) — JMP stats knowledge portal. Available at: https://www.jmp.com/en/statistics-knowledge-portal/t-test/one-sample-t-test (Accessed: 30 November 2025).
 
-- GeeksforGeeks. (2025). Create a Pandas DataFrame from Lists. [online] Available at: https://www.geeksforgeeks.org/python/create-a-pandas-dataframe-from-lists/ (Accessed 1 December 2025).
+- GeeksforGeeks. (2025). Create a Pandas DataFrame from Lists. [online] Available at: https://www.geeksforgeeks.org/python/create-a-pandas-dataframe-from-lists/ (Accessed: 1 December 2025).
 
 - GeeksforGeeks (2025) Null Hypothesis. Available at: https://www.geeksforgeeks.org/maths/null-hypothesis/ (Accessed: 20 December 2025).
 
@@ -97,9 +101,11 @@ Note: A fixed random seed is set at the start of this notebook to ensure reprodu
 
 - NumPy. (no date). numpy.arange — NumPy v… documentation. Available at: https://numpy.org/devdocs/reference/generated/numpy.arange.html (Accessed: 29 November 2025).
 
- - NumPy. (no date) numpy.std — Standard deviation. Available at: https://numpy.org/devdocs/reference/generated/numpy.std.html (Accessed: 19 November 2025).
+ - NumPy. (no date). numpy.std — Standard deviation. Available at: https://numpy.org/devdocs/reference/generated/numpy.std.html (Accessed: 19 November 2025).
 
 - NumPy. (no date). NumPy reference documentation. Available at: https://numpy.org/doc/stable/reference/index.html#reference (Accessed: 6 October 2025).
+
+- OpenAI. (2025). ChatGPT [Large language model]. Available at: https://chat.openai.com/ (Accessed: 21 December 2025).
 
 - Python Software Foundation. (no date). itertools — Functions creating iterators for efficient looping. Available at: https://docs.python.org/3/library/itertools.html (Accessed: 6 October 2025).
 

@@ -54,11 +54,11 @@ pip install -r requirements.txt
 
 This will install all necessary packages listed in requirements.txt. All libraries used are from the approved list provided for the assignment.
 
-Important note: A fixed random seed is set at the start of this notebook to ensure reproducible results. To reproduce the results exactly, the notebook should be run from start to finish in order.
+Important note: a fixed random seed is set at the start of the notebook to ensure reproducible results. To reproduce the results exactly, the notebook should be run from start to finish in order.
 
 ------------------------------------------------------------------------
 ## Use of Generative AI
-OpenAI’s ChatGPT was used to assist with practical aspects of this project, including formatting references in Harvard style, producing an adequate .gitignore, structuring the README, and improving the clarity and academic phrasing of some written explanations. All code, statistical analysis, and interpretation of results were produced, verified, and finalised by the author. Any AI-generated suggestions were reviewed critically and adapted as necessary.
+OpenAI’s ChatGPT was used to assist with practical aspects of this project, including formatting references in Harvard style, producing an appropriate .gitignore file, structuring the README, and improving the clarity and academic phrasing of some written explanations. All code, statistical analysis, and interpretation of results were produced, verified, and finalised by the author. Any AI-generated suggestions were reviewed critically and adapted as necessary.
 
 ------------------------------------------------------------------------
 

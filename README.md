@@ -54,6 +54,8 @@ pip install -r requirements.txt
 
 This will install all necessary packages listed in requirements.txt. All libraries used are from the approved list provided for the assignment.
 
+Note: A fixed random seed is set at the start of this notebook to ensure reproducible results. To reproduce the results exactly, the notebook should be run from start to finish in order.
+
 ------------------------------------------------------------------------
 
 ## Full Reference List
